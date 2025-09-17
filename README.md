@@ -6,8 +6,8 @@ Lightweight second-order dynamics for natural, procedural motion in Unity.
 
 Drop‑in components that make any Transform smoothly follow a target using a spring‑damper model.
 
-* `ProceduralMovement` — position follow
-* `ProceduralRotation` — rotation follow (+ optional lean by movement)
+* `ProceduralMovement`: position follow
+* `ProceduralRotation`: rotation follow (+ optional lean by movement)
 
 ## Use in 20 seconds
 
