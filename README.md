@@ -1,4 +1,4 @@
-# Second‑Order Animation
+# Second‑Order Dynamics
 
 Lightweight second-order dynamics for natural, procedural motion in Unity.
 
